@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Chantelle Duncan Music]]></title>
         <description><![CDATA[Chantelle Duncan Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chantelle-duncan-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 13:03:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 14:07:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chantelle-duncan-music/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03fd6b5f-bb6e-4e93-b605-3e430bfc451a.jpg">]]></description>
-            <link>undefined4ce1f40b-656f-42e2-8b16-6442156f39ef/index.html</link>
+            <link>https://thegrid.ai/chantelle-duncan-music/4ce1f40b-656f-42e2-8b16-6442156f39ef/index.html</link>
             <guid isPermaLink="false">4ce1f40b-656f-42e2-8b16-6442156f39ef</guid>
-            <pubDate>Sun, 10 Jan 2016 13:03:26 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 14:06:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
